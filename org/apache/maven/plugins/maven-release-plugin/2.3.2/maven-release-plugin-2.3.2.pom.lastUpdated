@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Aug 04 15:27:45 CEST 2015
+http\://10.104.0.161\:8081/nexus/content/repositories/test/.lastUpdated=1438694738448
+http\://10.104.0.161\:8081/nexus/content/repositories/test/.error=
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1438694865860
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-release-plugin\:pom\:2.3.2 from/to central (https\://repo.maven.apache.org/maven2)\: Connect to repo.maven.apache.org\:443 [repo.maven.apache.org/185.31.17.215] failed\: Connection timed out
